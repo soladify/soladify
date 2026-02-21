@@ -12,8 +12,17 @@
 - **Bittensor AI Mining** – Python algorithms for decentralized AI network, ranked #1 miner  
 
 ### Connect with Me
-  <a href="https://twitter.com/buckybonez">
-    <img src="https://img.shields.io/badge/Twitter-BuckyBonez-1DA1F2?style=flat&logo=x&logoColor=white" />
+  <a href="mailto:buckybonez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-buckybonez@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/buckybonez">
+    <img src="https://img.shields.io/badge/Telegram-buckybonez-2AABEE?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://x.com/buckybonez">
+    <img src="https://img.shields.io/badge/Twitter-buckybonez-1DA1F2?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.com/buckybonez">
+    <img src="https://img.shields.io/badge/Discord-buckybonez-1DA1F2?style=flat&logo=discord&logoColor=white" />
   </a>
 
 ### Worked on
