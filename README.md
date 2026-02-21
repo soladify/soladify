@@ -12,8 +12,8 @@
 - **Bittensor AI Mining** – Python algorithms for decentralized AI network, ranked #1 miner  
 
 ### Connect with Me
-  <a href="https://twitter.com/Metatev_x">
-    <img src="https://img.shields.io/badge/Twitter-MᴇᴛᴀTᴇᴠ-1DA1F2?style=flat&logo=x&logoColor=white" />
+  <a href="https://twitter.com/buckybonez">
+    <img src="https://img.shields.io/badge/Twitter-BuckyBonez-1DA1F2?style=flat&logo=x&logoColor=white" />
   </a>
 
 ### Worked on
